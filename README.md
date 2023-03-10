@@ -1,2 +1,2 @@
-# Projetos
- Repositório para armazenar meus projetos.
+# Projects
+ Repository to store my personal projects.
